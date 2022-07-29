@@ -7,7 +7,7 @@
 -->
 
 ## **About Me:**
-<h2 align = "center"> Flutter Dev || Python || Java </h2>
+<h2 align = "center"> HTML/CSS || CPP  </h2>
 
 <!--
 ## **Github Streak:**
